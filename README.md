@@ -8,3 +8,4 @@ Disclaimer
 For educational purposes only. Use responsibly and only on systems you own or have permission to test.
 These projects are intended for educational purposes only. Use them responsibly and only on systems and networks you own or have explicit permission to test. Unauthorized scanning or testing of networks can be illegal.
 
+Inside the GWCC Zip are applications of the scripts fully deployable.
